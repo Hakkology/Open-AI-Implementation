@@ -1,0 +1,17 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\bin\Debug\net6.0\Hakan.OpenAI.ConsoleApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\bin\Debug\net6.0\Hakan.OpenAI.ConsoleApp.deps.json
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\bin\Debug\net6.0\Hakan.OpenAI.ConsoleApp.runtimeconfig.json
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\bin\Debug\net6.0\Hakan.OpenAI.ConsoleApp.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\bin\Debug\net6.0\Hakan.OpenAI.ConsoleApp.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.AssemblyInfo.cs
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.csproj.CopyComplete
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\refint\Hakan.OpenAI.ConsoleApp.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\Hakan.OpenAI.ConsoleApp.genruntimeconfig.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.OpenAI\Hakan.OpenAI.ConsoleApp\obj\Debug\net6.0\ref\Hakan.OpenAI.ConsoleApp.dll
